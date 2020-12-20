@@ -1,0 +1,18 @@
+{
+  "name": "05_learn_cli",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "qmj": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.1"
+  }
+}
